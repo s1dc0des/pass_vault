@@ -1,0 +1,8 @@
+# Project dependencies will be listed here
+# For now, it's empty as we are just setting up the structure.
+# Example:
+# cryptography==42.0.5
+# pqcrypto==0.1.0 # Replace with actual PQC library if one is chosen
+
+pycryptodome
+liboqs-python
